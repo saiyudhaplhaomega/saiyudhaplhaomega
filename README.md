@@ -1,3 +1,36 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=250&section=header&text=SAIYUDH%20MANNAN&fontSize=65&fontColor=00fff9&animation=twinkling&fontAlignY=45&desc=%3E_%20AI%2FML%20ENGINEER%20%2F%2F%20MLOPS%20%2F%2F%20CLOUD%20ARCHITECT&descAlignY=65&descSize=18&descColor=ff00c8" width="100%" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=600&color=00FFF9&center=true&vCenter=true&random=false&width=750&lines=%3E+INITIALIZING+NEURAL+INTERFACE...;%3E+LOADING+PRODUCTION+AI+SYSTEMS...;%3E+AWS+%7C+AZURE+%7C+KUBERNETES+%7C+TERRAFORM+ONLINE;%3E+LANGCHAIN+%7C+RAG+%7C+AGENTS+ACTIVE;%3E+ADASTRA+%7C+LE+WAGON+%2F%2F+MAGDEBURG%2C+DE;%3E+SYSTEM+READY.+WELCOME+TO+THE+GRID.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Saiyudh_Mannan-00fff9?style=for-the-badge&logo=linkedin&logoColor=00fff9&labelColor=0d0221&color=0d0221)](https://www.linkedin.com/in/saiyudh-mannan/)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-saiyudhaplhaomega-ff00c8?style=for-the-badge&logo=github&logoColor=ff00c8&labelColor=0d0221&color=0d0221)](https://github.com/saiyudhaplhaomega)
+[![Location](https://img.shields.io/badge/◈_NODE-Magdeburg%2C_DE-f9f002?style=for-the-badge&logo=googlemaps&logoColor=f9f002&labelColor=0d0221&color=0d0221)](https://www.linkedin.com/in/saiyudh-mannan/)
+[![Status](https://img.shields.io/badge/◈_STATUS-OPEN_TO_WORK-00ff88?style=for-the-badge&logo=statuspal&logoColor=00ff88&labelColor=0d0221&color=0d0221)](https://www.linkedin.com/in/saiyudh-mannan/)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  >> SYSTEM PROFILE LOADED                                        ║
+║  ──────────────────────────────────────────────────────────────  ║
+║  AGENT    : Saiyudh Mannan                                       ║
+║  CLASS    : Data Engineer ──► AI/ML Engineer                     ║
+║  NODE     : Magdeburg, Germany 🇩🇪                               ║
+║  CORPS    : Adastra // Le Wagon                                  ║
+║  MISSION  : Building Production-Ready AI Systems                 ║
+║  STACK    : MLOps · LangChain · RAG · AWS · Kubernetes           ║
+║  AVAIL    : [████████████] OPEN TO WORK ✔                        ║
+║  ──────────────────────────────────────────────────────────────  ║
+║  PHILOSOPHY: "Ship fast. Scale smart. Build for humans."         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 ---
 
 ## ⚡ TECH ARSENAL `//`
@@ -5,7 +38,6 @@
 <div align="center">
 
 ### `[ CLOUD & INFRASTRUCTURE ]`
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-00fff9?style=for-the-badge&logo=microsoftazure&logoColor=000000&labelColor=00fff9)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=ff00c8&labelColor=0d0221)
@@ -13,7 +45,6 @@
 ![Docker](https://img.shields.io/badge/Docker-00fff9?style=for-the-badge&logo=docker&logoColor=000000&labelColor=00fff9)
 
 ### `[ AI // ML // MLOPS ]`
-
 ![Python](https://img.shields.io/badge/Python-f9f002?style=for-the-badge&logo=python&logoColor=000000&labelColor=f9f002)
 ![LangChain](https://img.shields.io/badge/LangChain-ff00c8?style=for-the-badge&logo=langchain&logoColor=ffffff&labelColor=0d0221)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=00fff9&labelColor=0d0221)
@@ -22,20 +53,17 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=ff00c8&labelColor=0d0221)
 
 ### `[ LANGUAGES // WEB ]`
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-f9f002?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=f9f002)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00fff9?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=00fff9)
 ![Node.js](https://img.shields.io/badge/Node.js-00ff88?style=for-the-badge&logo=node.js&logoColor=000000&labelColor=00ff88)
 ![Angular](https://img.shields.io/badge/Angular-ff00c8?style=for-the-badge&logo=angular&logoColor=ffffff&labelColor=0d0221)
 
 ### `[ DATA ENGINEERING ]`
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00fff9?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=00fff9)
 ![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ff00c8&labelColor=0d0221)
 ![Apache_Kafka](https://img.shields.io/badge/Apache_Kafka-f9f002?style=for-the-badge&logo=apachekafka&logoColor=000000&labelColor=f9f002)
 
 ### `[ DEVOPS // CI/CD ]`
-
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-ff00c8?style=for-the-badge&logo=githubactions&logoColor=ff00c8&labelColor=0d0221)
 ![Linux](https://img.shields.io/badge/Linux-f9f002?style=for-the-badge&logo=linux&logoColor=000000&labelColor=f9f002)
 ![Shell](https://img.shields.io/badge/Shell-00fff9?style=for-the-badge&logo=gnu-bash&logoColor=000000&labelColor=00fff9)
@@ -67,7 +95,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saiyudhaplhaomega&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=c9f0ff&ring_color=ff00c8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saiyudhaplhaomega&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=c9f0ff" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyudhaplhaomega&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9f0ff" />
 
 </div>
@@ -106,3 +134,9 @@
 ![Followers](https://img.shields.io/github/followers/saiyudhaplhaomega?style=for-the-badge&color=ff00c8&labelColor=0d0221&label=FOLLOWERS)
 
 <br/>
+
+`[ END TRANSMISSION ] /////// STAY NEURAL. BUILD THE FUTURE. ///////`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24&height=150&section=footer" width="100%" />
