@@ -96,7 +96,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiyudhaplhaomega&theme=2077" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiyudhaplhaomega&theme=2077" />>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiyudhaplhaomega&theme=2077" />
 
 </div>
 
