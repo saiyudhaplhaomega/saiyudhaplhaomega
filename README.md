@@ -140,4 +140,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24&height=150&section=footer" width="100%" />
-h
