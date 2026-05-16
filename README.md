@@ -95,8 +95,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saiyudhaplhaomega&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=c9f0ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyudhaplhaomega&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9f0ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saiyudhaplhaomega&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=c9f0ff&rank_icon=github&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyudhaplhaomega&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=c9f0ff&exclude_repo=saiyudhaplhaomega" />
 
 </div>
 
@@ -140,3 +140,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24&height=150&section=footer" width="100%" />
+h
